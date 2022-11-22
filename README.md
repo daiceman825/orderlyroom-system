@@ -1,4 +1,4 @@
-# orderlyroom-system
+# Orderly Room System
 
 This repository is a record of projects focused on orderly room systems and processes and is currently a work in progress.
 
