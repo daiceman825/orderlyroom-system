@@ -9,3 +9,5 @@ While serving in a position that was not necessarily technical, I aspired to cre
 With no prior experience in VBA and limited knowledge of the administrative systems I was trying to navigate, I just started coding and this amazing (monstrous) system was the result. 
 
 It was made to pipe information from one adminstrative process to another and is not as straightforward as it could have been, but I like to think that I did my best and came up with some very creative solutions.  
+
+![System Scope Graph](https://raw.githubusercontent.com/daiceman825/orderlyroom-system/main/SystemScopeGraph.png)
